@@ -1,0 +1,5 @@
+This is a sample document 2.
+
+It contains multiple lines.
+we will process it using python.
+This is the content from the file 2 .
